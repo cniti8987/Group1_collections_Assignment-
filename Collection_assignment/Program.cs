@@ -32,7 +32,7 @@ namespace Collection_assignment
             Northamericancity.Add("Houston");
             Northamericancity.Add("Calgary");
             Northamericancity.Add("Toronto");
-            Northamericancity.Add("Ottawa");
+            Northamericancity.Add("Ottawwa");
 
             HashSet<string> canadacapital = new HashSet<string>(mydict.Keys);
 
